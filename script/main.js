@@ -1,3 +1,4 @@
+// designation swiper
 const swiper = new Swiper('.designation', {
     // Optional parameters
     slidesPerView: 1,
@@ -15,3 +16,4 @@ const swiper = new Swiper('.designation', {
         el: '.swiper-scrollbar',
     },
 });
+
